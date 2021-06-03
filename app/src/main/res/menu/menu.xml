@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Hot"
+        android:icon="@drawable/ic_food"/>
+    <item android:title="Search"
+        android:icon="@drawable/ic_search"/>
+    <item android:title="Orders"
+        android:icon="@drawable/ic_order"/>
+    <item android:title="Account"
+        android:icon="@drawable/ic_account"/>
+</menu>
